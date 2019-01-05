@@ -2,9 +2,6 @@ package main;
 
 import java.util.List;
 import java.util.function.Consumer;
-import java.util.stream.Collectors;
-import java.util.stream.DoubleStream;
-import java.util.stream.Stream;
 
 import main.functions.Crossover;
 import main.functions.Fitness;
